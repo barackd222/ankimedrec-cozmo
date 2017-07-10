@@ -7,7 +7,7 @@ This is the Cozmo demonstration that shows the MedRec APIs with a live demonstra
 ### Pre-Requisites
 
 - An Anki Cozmo. These can be purchased off Amazon / eBay.
-- Mobile Device (Android or iOS) with the ability to configure debugging mode.
+- Mobile Device (Android or iOS) with the ability to configure USB debugging mode.
 - Anki Cozmo mobile application installed on Mobile Device.
 - Access to MedRec APIs (either locally hosted or using API PCS).
 - Python Installed (should be latest but at least 3.x)
